@@ -24,8 +24,8 @@ Script de mappage automatique de disques réseaux et imprimantes selon le groupe
 
 *  [A propos](#a-propos)
 *  [Utilisation](#utilisation)
-   * [Disques Réseaux](#disques-réseau)
-   * [Imprimantes Réseaux](#imprimantes-réseau)
+   * [Disques Réseaux](#disques-réseaux)
+   * [Imprimantes Réseaux](#imprimantes-réseaux)
 *  [Contact](#contact)
 
   
@@ -43,7 +43,7 @@ Petit script de logon, pour auto mapper des disques réseaux et imprimantes selo
 
 Il suffit de remplacer les "NOM-DU-GROUPE" part le nom du groupe souhaité
 
-  ### Disques réseau 
+  ### Disques réseaux
 ```
 '##### DISQUE RESEAU 1 ######
 
