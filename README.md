@@ -23,9 +23,9 @@ Script de mappage automatique de disques réseaux et imprimantes selon le groupe
   
 
 *  [A propos](#a-propos)
-
 *  [Utilisation](#utilisation)
-
+   * [Disques Réseaux](#disques-réseau)
+   * [Imprimantes Réseaux](#imprimantes-réseau)
 *  [Contact](#contact)
 
   
@@ -80,7 +80,7 @@ end if
 
 WScript.sleep 1000
 ```
-  ### Imprimantes
+  ### Imprimantes Réseaux
 ```
 '##### IMPRIMANTE 1 #####
 on error resume next
